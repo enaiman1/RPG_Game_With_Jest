@@ -1,0 +1,22 @@
+{
+  "name": "rpg_game_with_jest",
+  "version": "1.0.0",
+  "description": "RPG game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enaiman1/RPG_Game_With_Jest.git"
+  },
+  "author": "Eric Naiman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enaiman1/RPG_Game_With_Jest/issues"
+  },
+  "homepage": "https://github.com/enaiman1/RPG_Game_With_Jest#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
