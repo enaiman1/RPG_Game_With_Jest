@@ -18,5 +18,8 @@
   "homepage": "https://github.com/enaiman1/RPG_Game_With_Jest#readme",
   "devDependencies": {
     "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2"
   }
 }
